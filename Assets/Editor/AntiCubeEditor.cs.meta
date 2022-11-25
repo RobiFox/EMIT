@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4f21a2879503634c83f60d4c08142cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubeMesh: {fileID: -5495902117074765545, guid: 3ea4daa007610df47b3157e290df847b,
+      type: 3}
+  - cylinderMesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

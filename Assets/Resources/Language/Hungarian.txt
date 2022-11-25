@@ -1,0 +1,68 @@
+# Menu
+
+menu.button.continue="FOLYTATÁS"
+menu.button.new_game="ÚJ JÁTÉK"
+menu.button.coop="KOOPERATÍV MÓD"
+menu.button.options="BEÁLLÍTÁSOK"
+menu.button.quit="KILÉPÉS"
+
+menu.button.resume="FOLYTATÁS"
+menu.button.restart="ÚJRAKEZDÉS"
+menu.button.main_menu="FŐMENÜ"
+
+menu.dialog.are_you_sure_to_quit="Biztosan kilépsz a játékból?"
+menu.dialog.are_you_sure_to_start_new_game="Új játék indításakor elveszik a jelenlegi haladásod. Biztos vagy benne?"
+
+menu.dialog.yes="IGEN"
+menu.dialog.no="NEM"
+
+menu.back="VISSZA"
+
+# Settings
+
+settings.video="VIDEÓ"
+settings.audio="HANG"
+settings.mouse="EGÉR"
+settings.gameplay="JÁTÉKMENET"
+settings.language="NYELV"
+
+settings.video.mode.0="Teljes Képernyő"
+settings.video.mode.1="Keretnélküli"
+settings.video.mode.2="Ablak"
+
+settings.audio.master_volume="Főhangerő"
+settings.audio.ambient_volume="Környező Hangerő"
+
+settings.mouse.sensitivity="Egér Érzékenység"
+settings.mouse.invert_x="X Tükrözés"
+settings.mouse.invert_y="Y Tükrözés"
+
+settings.gameplay.crosshair="Célkereszt"
+settings.gameplay.crosshair.0="Soha"
+settings.gameplay.crosshair.1="Ha Szükséges"
+settings.gameplay.crosshair.2="Mindig"
+settings.gameplay.cube="Felvett kocka"
+settings.gameplay.cube.0="Mutassa Belsőnézetben"
+settings.gameplay.cube.1="Mindkettő"
+settings.gameplay.cube.2="Mutassa Előtted"
+
+# Inputs
+input.space="SZÓKÖZ"
+input.right_mouse_button="JOBB EGÉR"
+input.left_mouse_button="BAL EGÉR"
+
+# Tutorials
+
+tutorial.grab_cube="Nyomj {val.0} Gombot a Kocka felvételéhez."
+tutorial.jump="Nyomj {val.0} Gombot az Ugráshoz."
+tutorial.restart="Nyomj {val.0} Gombot a Pálya Újrakezdéséhez"
+tutorial.interact="Nyomj {val.0} Gombot a Tevékenységekhez."
+tutorial.slow_time="Tartsd le a {val.0} Gombot az Idő Lassításához."
+tutorial.rewind_time="Tartsd le a {val.0} Gombot az Idő Visszafordításához."
+tutorial.rewind_time_tip="Az Idő Visszafordítása minden tevékenységet visszafordít."
+tutorial.anti_cube="Kockák, és Te, miközben Kockát cipelsz, nem tud átmenni ezen a mezőn."
+tutorial.throwing="Ha Futás Közben elengeded a Kockát, akkor nagyobb távolságra tudod eldobni."
+tutorial.spatial_cube="Ezen típusú Kockákat nem befolyásolja az Idő Visszafordítás"
+
+# Ending
+ending.message="Köszönöm, hogy végigjátszottad a játékom!"

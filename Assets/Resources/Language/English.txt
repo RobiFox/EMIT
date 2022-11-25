@@ -1,0 +1,68 @@
+# Menu
+
+menu.button.continue="CONTINUE"
+menu.button.new_game="NEW GAME"
+menu.button.coop="CO-OP MODE"
+menu.button.options="SETTINGS"
+menu.button.quit="QUIT"
+
+menu.button.resume="RESUME"
+menu.button.restart="RESTART"
+menu.button.main_menu="MAIN MENU"
+
+menu.dialog.are_you_sure_to_quit="Are you sure you want to quit the game?"
+menu.dialog.are_you_sure_to_start_new_game="Starting a New Game overwrites your current progress. Are you sure?"
+
+menu.dialog.yes="YES"
+menu.dialog.no="NO"
+
+menu.back="BACK"
+
+# Settings
+
+settings.video="VIDEO"
+settings.audio="AUDIO"
+settings.mouse="MOUSE"
+settings.gameplay="GAMEPLAY"
+settings.language="LANGUAGE"
+
+settings.video.mode.0="Full Screen"
+settings.video.mode.1="Borderless"
+settings.video.mode.2="Windowed"
+
+settings.audio.master_volume="Master Volume"
+settings.audio.ambient_volume="Ambient Volume"
+
+settings.mouse.sensitivity="Mouse Sensitivity"
+settings.mouse.invert_x="Invert X"
+settings.mouse.invert_y="Invert Y"
+
+settings.gameplay.crosshair="Crosshair"
+settings.gameplay.crosshair.0="Never"
+settings.gameplay.crosshair.1="When Needed"
+settings.gameplay.crosshair.2="Always"
+settings.gameplay.cube="Equipped Cube"
+settings.gameplay.cube.0="Show in First Person View"
+settings.gameplay.cube.1="Show in Both View"
+settings.gameplay.cube.2="Show in front of you"
+
+# Inputs
+input.space="SPACE"
+input.right_mouse_button="RIGHT MOUSE BUTTON"
+input.left_mouse_button="LEFT MOUSE BUTTON"
+
+# Tutorials
+
+tutorial.grab_cube="Press {val.0} to Grab Cube."
+tutorial.jump="Press {val.0} to Jump."
+tutorial.restart="Press {val.0} to Restart your Current Level."
+tutorial.interact="Press {val.0} to Interact."
+tutorial.slow_time="Hold {val.0} to Slow Time."
+tutorial.rewind_time="Hold {val.0} to Rewind Time."
+tutorial.rewind_time_tip="Rewinding Time rewinds All Actions, including Doors activated by You."
+tutorial.anti_cube="Cubes or you Carrying a Cube can't go past this Field."
+tutorial.throwing="Letting go of a Cube while running will throw it to a Greater Distance."
+tutorial.spatial_cube="These kind of Cubes aren't affected by Time Rewind."
+
+# Ending
+ending.message="Thank you for playing."
